@@ -1,4 +1,4 @@
-#this .yml file will build a conda environment to run the materials
+#this .yaml file will build a conda environment to run the materials
 #characterization DLN .ipynbs via an interactive platform
 dependencies:
     - python==3.7.3
