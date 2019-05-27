@@ -5,12 +5,10 @@ channels:
   - conda-forge
 dependencies:
     - python==3.7.3
-    - numpy==1.13.0
     - scipy
     - ipywidgets
     - matplotlib
     - scikit-learn
-    - pandas
     - octave_kernel
     - jupyter
     - rise
@@ -25,6 +23,5 @@ dependencies:
         - pandas==0.24.2
         - scipy==1.0.0
         - ipython==7.5.0
-        - jupyter
         #- matlab-kernel==0.16.4
         #- matlabengineforpython==R2017b
