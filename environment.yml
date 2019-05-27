@@ -26,5 +26,5 @@ dependencies:
         - scipy==1.0.0
         - ipython==7.5.0
         - jupyter
-        - matlab-kernel==0.16.4
-        - matlabengineforpython==R2017b
+        #- matlab-kernel==0.16.4
+        #- matlabengineforpython==R2017b
