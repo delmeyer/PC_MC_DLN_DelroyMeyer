@@ -6,3 +6,6 @@ numpy==1.14.0
 pandas==0.24.2
 scipy==1.0.0
 ipython==7.5.0
+## jupyter ##
+jupyter
+ipykernel
