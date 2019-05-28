@@ -1,0 +1,25 @@
+#this .yml file will build a conda environment to run the materials
+#characterization DLN .ipynbs via an interactive platform
+dependencies:
+    - python==3.7.3
+    - scipy
+    - ipywidgets
+    - matplotlib
+    - scikit-learn
+    - octave_kernel
+    - jupyter
+    - rise
+    - pip
+    - pip:
+        - msgpack-python
+        - pygal==2.4.0
+        - plotly==3.9.0
+        - qgrid==1.1.1
+        - seaborn==0.9.0
+        - numpy==1.16.3
+        - pandas==0.24.2
+        - scikit-learn==0.19.1
+        - scipy==1.3.0
+        - ipython==7.5.0
+        - matlab-kernel==0.16.4
+        - matlabengineforpython==R2017b
